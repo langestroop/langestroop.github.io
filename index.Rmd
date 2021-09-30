@@ -1,6 +1,6 @@
 ---
 title: "Alberto Mariola"
-image: "avatar.jpg"
+image: "avatar_sq.png"
 links:
   - label: LinkedIn
     url: ""
@@ -13,5 +13,10 @@ links:
 output:
   postcards::jolla
 ---
- 
-I am a Sussex Neuroscience PhD candidate working at the Sackler Centre for Consciousness Science
+
+## Bio 
+I am a [Sussex Neuroscience][sussex_neuro] PhD candidate working at the [Sackler Centre for Consciousness Science][sackler].
+
+
+[sussex_neuro]: https://www.sussex.ac.uk/research/centres/sussex-neuroscience/phd/4yearphd
+[sackler]: http://www.sussex.ac.uk/sackler/

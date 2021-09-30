@@ -1,0 +1,17 @@
+---
+title: "Alberto Mariola"
+image: "avatar.jpg"
+links:
+  - label: LinkedIn
+    url: ""
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/langestroop"
+  - label: Email
+    url: "a.mariola@protonmail.ch"
+output:
+  postcards::jolla
+---
+ 
+I am a Sussex Neuroscience PhD candidate working at the Sackler Centre for Consciousness Science

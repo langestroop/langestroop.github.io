@@ -3,7 +3,7 @@ title: "Alberto Mariola"
 image: "img/avatar_sq.png"
 links:
   - label: LinkedIn
-    url: ""
+    url: "https://www.linkedin.com/in/alberto-mariola-449b91160/"
   - label: Twitter
     url: "https://twitter.com/langestroop"
   - label: GitHub

@@ -1,20 +1,20 @@
 ---
 title: "Alberto Mariola"
-image: "avatar_sq.png"
+image: "img/avatar_sq.png"
 links:
   - label: LinkedIn
     url: ""
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/langestroop"
   - label: GitHub
     url: "https://github.com/langestroop"
   - label: Email
-    url: "a.mariola@protonmail.ch"
+    url: "langestroop@protonmail.ch"
+  - label: Scholar
+    url: "https://scholar.google.com/citations?user=93msY9YAAAAJ&hl=en&oi=ao"
 output:
   postcards::jolla
 ---
-
-## Bio 
 I am a [Sussex Neuroscience][sussex_neuro] PhD candidate working at the [Sackler Centre for Consciousness Science][sackler].
 
 

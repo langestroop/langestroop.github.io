@@ -2,10 +2,11 @@ project:
   type: website
 
 website:
-  title: "langestroop.github.io"
+  title: "Alberto Mariola"
   navbar:
     right:
-      - about.qmd
+      - text: Blog
+      - href: blog.qmd
       - icon: github
         href: https://github.com/langestroop
       - icon: twitter
@@ -14,7 +15,7 @@ website:
         href: https://scholar.google.com/citations?user=93msY9YAAAAJ&hl=it&oi=ao 
 format:
   html:
-    theme: cosmo
+    theme: litera
     css: styles.css
 
 editor: visual

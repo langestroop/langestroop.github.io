@@ -1,18 +1,24 @@
 project:
   type: website
-
 website:
   title: "Alberto Mariola"
   navbar:
     right:
       - text: Blog
-      - href: blog.qmd
+        href: blog.qmd
+      - text: Research
+        href: research.qmd
+      - text: CV
+        href: cv.qmd
+      - text: Publications
+        href: pubs.md
       - icon: github
         href: https://github.com/langestroop
       - icon: twitter
         href: https://twitter.com/langestroop
-      - icon: scholar
+      - text: "{{< ai google-scholar >}}"
         href: https://scholar.google.com/citations?user=93msY9YAAAAJ&hl=it&oi=ao 
+      - text: "{{< fa envelope >}}"
 format:
   html:
     theme: litera

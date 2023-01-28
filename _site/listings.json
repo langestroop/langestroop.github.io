@@ -5,5 +5,31 @@
       "/posts/post-with-code/index.html",
       "/posts/welcome/index.html"
     ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/research.html",
+    "items": [
+      "/index.html",
+      "/cv.html",
+      "/blog.html",
+      "/posts/welcome/index.html",
+      "/pubs.html"
+    ]
+  },
+  {
+    "listing": "/cv.html",
+    "items": [
+      "/research.html",
+      "/index.html",
+      "/blog.html",
+      "/posts/welcome/index.html",
+      "/pubs.html"
+    ]
   }
 ]

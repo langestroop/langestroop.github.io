@@ -2,6 +2,17 @@
   "listingMap": {
     "index.qmd": [
       "posts"
+    ],
+    "blog.qmd": [
+      "posts"
+    ],
+    "research.qmd": [
+      "posts",
+      "B3049D40"
+    ],
+    "cv.qmd": [
+      "posts",
+      "B3049D40"
     ]
   }
 }

@@ -10,5 +10,17 @@
   },
   "about.qmd": {
     "about.html": "5a506d4b"
+  },
+  "blog.qmd": {
+    "blog.html": "6de80024"
+  },
+  "research.qmd": {
+    "research.html": "1b2ea275"
+  },
+  "pubs.md": {
+    "pubs.html": "10d47993"
+  },
+  "cv.qmd": {
+    "cv.html": "e0dbdd6b"
   }
 }

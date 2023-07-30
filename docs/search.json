@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Alberto Mariola, PhD",
     "section": "",
-    "text": "I an a Postdoctoral Research Fellow working at the Episodic Memory Group with Prof Chris Bird.\nI completed my PhD within the 4-Year Sussex Neuroscience Programme working at the Sussex Centre for Consciousness under the supervision of Prof Anil Seth, Dr Warrick Roseboom and Prof Luc Berthouze.\nMy work lies at the intersection of human perception, memory and metacognition. Specifically, I am interested in the neural and computational mechanisms that underlie event segmentation, namely humans’ ability to segment the continuous flow of information reaching their senses into units of experience and how this ability influences memory and reality monitoring. To do so, I am mostly employing a combination of naturalistic experimental paradigms (e.g., videos, movies, XR technologies), neuroimaging (e.g., M/EEG combined with eye tracking) and computational modelling.\nFeel free to reach out to me via mail and/or via any of the reported social media platforms on the left."
+    "text": "I am a Postdoctoral Research Fellow working at the University of Sussex (UK) in the Episodic Memory Group with Prof Chris Bird.\nMy work lies at the intersection of human perception, memory and metacognition. Specifically, I am interested in the neural and computational mechanisms that underlie event segmentation, namely humans’ ability to segment the continuous flow of information reaching their senses into units of experience and how this ability influences memory and reality monitoring. To do so, I am mostly employing a combination of naturalistic experimental paradigms (e.g., videos, movies, XR technologies), neuroimaging (e.g., M/EEG combined with eye tracking) and computational modelling.\nThis website is under construction, but feel free to reach out to me via mail and/or via any of the included reported social media platform links"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Alberto Mariola, PhD\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nCurriculum Vitae\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nBlog\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\n\n\n\n\n\n\n\n\n\n\nFeb 1, 2023\n\n\nAlberto Mariola\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTest\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 22, 2023\n\n\nAlberto Mariola\n\n\n\n\n\n\nNo matching items"
+    "text": "My work lies at the intersection of human perception, memory and metacognition. Specifically, I am interested in the neural and computational mechanisms that underlie event segmentation, namely humans’ ability to segment the continuous flow of information reaching their senses into units of experience and how this ability influences memory and reality monitoring. To do so, I am mostly employing a combination of naturalistic experimental paradigms (e.g., videos, movies, XR technologies), neuroimaging (e.g., M/EEG combined with eye tracking) and computational modelling.\nCurrently, I am specifically exploring the relation\n\n\n\n\n\n\n\n\n  \n\n\n\n\nAlberto Mariola, PhD\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nCurriculum Vitae\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nBlog\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\n\n\n\n\n\n\n\n\n\n\nFeb 1, 2023\n\n\nAlberto Mariola\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTest\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 22, 2023\n\n\nAlberto Mariola\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog.html",
@@ -46,7 +46,7 @@
     "href": "pubs.html",
     "title": "Publications",
     "section": "",
-    "text": "Here you can find an updated list of my publications together with the corresponding PDF files. Whenever possible, the respective OSF and/or Github repo containing pre-reg materials, data and/or scripts is also included."
+    "text": "Here you can find an updated list of my publications together with the corresponding PDF files. Whenever possible, the respective OSF and/or Github repos containing pre-reg materials, data and/or scripts are also included."
   },
   {
     "objectID": "pubs.html#preprints",
@@ -60,7 +60,7 @@
     "href": "pubs.html#journal-publications",
     "title": "Publications",
     "section": "Journal Publications",
-    "text": "Journal Publications\nHofmann, S. M., Klotzsche, F., Mariola, A.*, Nikulin, V., Villringer, A., & Gaebler, M. (2021). Decoding subjective emotional arousal from EEG during an immersive virtual reality experience. eLife, 10:e64812. 10.7554/eLife.64812"
+    "text": "Journal Publications\nHofmann, S. M., Klotzsche, F., Mariola, A., Nikulin, V., Villringer, A., & Gaebler, M. (2021). Decoding subjective emotional arousal from EEG during an immersive virtual reality experience. eLife, 10:e64812. 10.7554/eLife.64812   (shared first autorship, alphabetical order)"
   },
   {
     "objectID": "pubs.html#book-chapters",
@@ -82,5 +82,12 @@
     "title": "Test",
     "section": "",
     "text": "This is the first post in my Quarto blog. Welcome!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am currently Postdoctoral Research Fellow working at the University of Sussex (UK) in the Episodic Memory Group with Prof Chris Bird.\nI completed my PhD within the 4-Year Sussex Neuroscience Programme working at the Sussex Centre for Consciousness under the supervision of Prof Anil Seth, Dr Warrick Roseboom and Prof Luc Berthouze."
   }
 ]

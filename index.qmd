@@ -24,12 +24,10 @@ about:
 
 :::{#hero-heading}
 
-I an a Postdoctoral Research Fellow working at the University of Sussex (UK) in the [Episodic Memory Group](http://www.sussex.ac.uk/psychology/memory/index) with Prof [Chris Bird](https://scholar.google.co.uk/citations?user=smxv3nIAAAAJ&hl=en).
-
-I completed my PhD within the [4-Year Sussex Neuroscience Programme](https://www.sussex.ac.uk/research/centres/sussex-neuroscience/phd/4yearphd) working at the [Sussex Centre for Consciousness](https://www.sussex.ac.uk/research/centres/sussex-centre-for-consciousness-science/) under the supervision of Prof [Anil Seth](https://www.anilseth.com/), Dr [Warrick Roseboom](https://www.warrickroseboom.com/home) and Prof [Luc Berthouze](https://berthouz.github.io/).
+I am a Postdoctoral Research Fellow working at the University of Sussex (UK) in the [Episodic Memory Group](http://www.sussex.ac.uk/psychology/memory/index) with Prof [Chris Bird](https://scholar.google.co.uk/citations?user=smxv3nIAAAAJ&hl=en).
 
 My work lies at the intersection of human perception, memory and metacognition. Specifically, I am interested in the neural and computational mechanisms that underlie event segmentation, namely humans’ ability to segment the continuous flow of information reaching their senses into units of experience and how this ability influences memory and reality monitoring. To do so, I am mostly employing a combination of naturalistic experimental paradigms (e.g., videos, movies, XR technologies), neuroimaging (e.g., M/EEG combined with eye tracking) and computational modelling.
 
-Feel free to reach out to me via [mail](mailto:a.mariola@protonmail.ch) and/or via any of the reported social media platforms on the left. 
+This website is under construction, but feel free to reach out to me via [mail](mailto:a.mariola@protonmail.ch) and/or via any of the included reported social media platform links 
 
 :::

@@ -19,7 +19,7 @@ Here you can find an updated list of my publications together with the correspon
 ## Journal Publications
 
 Hofmann, S. M.*, Klotzsche, F.*, **Mariola, A.***, Nikulin, V., Villringer, A., & Gaebler, M. (2021). Decoding subjective emotional arousal from EEG during an immersive virtual reality experience. _eLife_, 10:e64812. [10.7554/eLife.64812](https://doi.org/10.7554/eLife.64812) [<i class="fa-solid fa-file-pdf"></i>](pdf/hofmann_klotzsche_mariola_elife_2021.pdf)
-[<i class="fa-brands fa-github"></i>](https://github.com/NeVRo-study/NeVRo)
+[<i class="fa-brands fa-github"></i>](https://github.com/NeVRo-study/NeVRo) (*shared first autorship, alphabetical order)
 
 ## Book Chapters 
 
@@ -32,4 +32,4 @@ Suzuki, K., **Mariola, A.**, Schwartzman, D. J., & Seth, A. K. (2023). Using ext
 
 Hofmann, S. M., Klotzsche, F., **Mariola, A.**, Nikulin, V. V., Villringer, A., & Gaebler, M. (2018, December). Decoding subjective emotional arousal during a naturalistic VR experience from EEG using LSTMs. _In 2018 IEEE International Conference on Artificial Intelligence and Virtual Reality (AIVR)_ (pp. 128-131). IEEE. [10.1109/AIVR.2018.00026](https://ieeexplore.ieee.org/abstract/document/8613645) [<i class="fa-solid fa-file-pdf"></i>](pdf/hofmann_aivr_2018.pdf)
 
-Klotzsche, F., Mariola, A., Hofmann, S., Nikulin, V. V., Villringer, A., & Gaebler, M. (2018, March). Using EEG to decode subjective levels of emotional arousal during an immersive VR roller coaster ride. _In 2018 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)_ (pp. 605-606). IEEE. [10.1109/VR.2018.8446275](https://ieeexplore.ieee.org/abstract/document/8446275) [<i class="fa-solid fa-file-pdf"></i>](pdf/klotzsche_vr_2018.pdf)
+Klotzsche, F., **Mariola, A.**, Hofmann, S., Nikulin, V. V., Villringer, A., & Gaebler, M. (2018, March). Using EEG to decode subjective levels of emotional arousal during an immersive VR roller coaster ride. _In 2018 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)_ (pp. 605-606). IEEE. [10.1109/VR.2018.8446275](https://ieeexplore.ieee.org/abstract/document/8446275) [<i class="fa-solid fa-file-pdf"></i>](pdf/klotzsche_vr_2018.pdf)

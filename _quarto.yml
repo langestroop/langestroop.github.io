@@ -6,9 +6,9 @@ website:
   navbar:
     right:
       - text: About
-        href: about.qmd
+        href: about.md
       - text: Research
-        href: research.qmd
+        href: research.md
       #- text: CV
       #  href: cv.md
       - text: Publications

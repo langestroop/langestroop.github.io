@@ -17,12 +17,6 @@
   },
   {
     "listing": "/cv.html",
-    "items": [
-      "/research.html",
-      "/index.html",
-      "/blog.html",
-      "/pubs.html",
-      "/posts/welcome/index.html"
-    ]
+    "items": []
   }
 ]

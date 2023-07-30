@@ -23,21 +23,13 @@ about:
 ---
 
 :::{#hero-heading}
-I'm a [4-Year Sussex Neuroscience](https://www.sussex.ac.uk/research/centres/sussex-neuroscience/phd/4yearphd) PhD candidate working at the [Sussex Centre for Consciousness](https://www.sussex.ac.uk/research/centres/sussex-centre-for-consciousness-science/) under the supervision of Prof [Anil Seth](https://www.anilseth.com/), Dr. [Warrick Roseboom](https://www.warrickroseboom.com/home) and Prof. [Luc Berthouze](https://berthouz.github.io/).
 
-My work lies at the interesection of  
+I'm a Postdoctoral Research Fellow working at the [Episodic Memory Group](http://www.sussex.ac.uk/psychology/memory/index) with Prof [Chris Bird](https://scholar.google.co.uk/citations?user=smxv3nIAAAAJ&hl=en).
 
-Feel free to reach out to me via [mail](mailto:a.mariola@protonmail.ch) and/or via any of the reported platforms on the left (e.g., [Twitter](https://twitter.com/langestroop)). 
+Before that I completed my PhD within the [4-Year Sussex Neuroscience](https://www.sussex.ac.uk/research/centres/sussex-neuroscience/phd/4yearphd) at the [Sussex Centre for Consciousness](https://www.sussex.ac.uk/research/centres/sussex-centre-for-consciousness-science/) working under the supervision of Prof [Anil Seth](https://www.anilseth.com/), Dr [Warrick Roseboom](https://www.warrickroseboom.com/home) and Prof [Luc Berthouze](https://berthouz.github.io/).
 
+My work lies at the intersection of human perception, memory and metacognition. 
 
-## Education
+Feel free to reach out to me via [mail](mailto:a.mariola@protonmail.ch) and/or via any of the reported social media platforms on the left (e.g., [Twitter](https://twitter.com/langestroop)). 
 
-University of Sussex | Brighton, UK
-PhD in Neuroscience | Sept 2017 - Dec 2022
-
-Berlin School of Mind and Brain (Humboldt Universität zu Berlin) | Berlin, DE
-MSc Mind and Brain (Track: Brain; Cognitive Neuroscience) | Oct 2015 - Oct 2017
-
-University of Trento | Rovereto, IT
-BSc Science and Technologies of Cognitive Psychology | February 2013 - July 2015
 :::

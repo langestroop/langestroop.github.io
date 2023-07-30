@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Alberto Mariola",
     "section": "",
-    "text": "I’m a 4-Year Sussex Neuroscience PhD candidate working at the Sussex Centre for Consciousness under the supervision of Prof Anil Seth, Dr. Warrick Roseboom and Prof. Luc Berthouze.\nMy work lies at the interesection of\nFeel free to reach out to me via mail and/or via any of the reported platforms on the left (e.g., Twitter).\n\n\nUniversity of Sussex | Brighton, UK PhD in Neuroscience | Sept 2017 - Dec 2022\nBerlin School of Mind and Brain (Humboldt Universität zu Berlin) | Berlin, DE MSc Mind and Brain (Track: Brain; Cognitive Neuroscience) | Oct 2015 - Oct 2017\nUniversity of Trento | Rovereto, IT BSc Science and Technologies of Cognitive Psychology | February 2013 - July 2015"
+    "text": "I’m a 4-Year Sussex Neuroscience PhD candidate working at the Sussex Centre for Consciousness under the supervision of Prof Anil Seth, Dr. Warrick Roseboom and Prof. Luc Berthouze.\nMy work lies at the intersection of human perception, memory and metacognition. Specifically, in my PhD project ( “Segmenting reality: investigating the role of perceptual change in shaping sense of reality in naturalistic contexts”), I aimed to assess the role that perceptual change\nFeel free to reach out to me via mail and/or via any of the reported platforms on the left (e.g., Twitter)."
   },
   {
     "objectID": "research.html",
@@ -75,5 +75,12 @@
     "title": "Publications",
     "section": "Conference Publications",
     "text": "Conference Publications\nMariola, A., Baykova, R., Chang, A. Y., Seth, A. K., & Roseboom, W. (2019, September). Clear Evidence for Electrophysiological Signatures of Duration and Rhythm Prediction, but not across Sensory Modalities. In 2019 Conference on Cognitive Computational Neuroscience. Berlin, Germany: Cognitive Computational Neuroscience. 10.32470/CCN.2019.1389-0 \nHofmann, S. M., Klotzsche, F., Mariola, A., Nikulin, V. V., Villringer, A., & Gaebler, M. (2018, December). Decoding subjective emotional arousal during a naturalistic VR experience from EEG using LSTMs. In 2018 IEEE International Conference on Artificial Intelligence and Virtual Reality (AIVR) (pp. 128-131). IEEE. 10.1109/AIVR.2018.00026 \nKlotzsche, F., Mariola, A., Hofmann, S., Nikulin, V. V., Villringer, A., & Gaebler, M. (2018, March). Using EEG to decode subjective levels of emotional arousal during an immersive VR roller coaster ride. In 2018 IEEE Conference on Virtual Reality and 3D User Interfaces (VR) (pp. 605-606). IEEE. 10.1109/VR.2018.8446275"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Test",
+    "section": "",
+    "text": "This is the first post in my Quarto blog. Welcome!"
   }
 ]

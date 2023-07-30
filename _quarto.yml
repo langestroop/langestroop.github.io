@@ -10,7 +10,7 @@ website:
       - text: Research
         href: research.qmd
       - text: CV
-        href: cv.qmd
+        href: cv.md
       - text: Publications
         href: pubs.md
       - icon: github
@@ -19,7 +19,6 @@ website:
         href: https://twitter.com/langestroop
       - text: "{{< ai google-scholar >}}"
         href: https://scholar.google.com/citations?user=93msY9YAAAAJ&hl=it&oi=ao 
-      - text: "{{< fa envelope >}}"
 format:
   html:
     theme: litera

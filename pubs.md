@@ -6,7 +6,7 @@ layout: single-sidebar
 date: "2023-02-01"
 ---
 
-Here you can find an updated list of my publications together with the corresponding PDF files. Whenever possible, the respective OSF and/or Github repo containing pre-reg materials, data and/or scripts is also included.
+Here you can find an updated list of my publications together with the corresponding PDF files. Whenever possible, the respective OSF and/or Github repos containing pre-reg materials, data and/or scripts are also included.
 
 
 ## Preprints

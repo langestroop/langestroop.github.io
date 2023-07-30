@@ -5,14 +5,16 @@ website:
   title: "Alberto Mariola"
   navbar:
     right:
-      - text: Blog
-        href: blog.qmd
+      - text: About
+        href: about.qmd
       - text: Research
         href: research.qmd
-      - text: CV
-        href: cv.md
+      #- text: CV
+      #  href: cv.md
       - text: Publications
         href: pubs.md
+      - text: Blog
+        href: blog.qmd
       - icon: github
         href: https://github.com/langestroop
       - icon: twitter

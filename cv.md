@@ -12,11 +12,8 @@ To download the latest version of my CV, please see:
 
 ## Education
 
-University of Sussex | Brighton, UK
-PhD in Neuroscience | Sept 2017 - Dec 2022
+University of Sussex \| Brighton, UK PhD in Neuroscience \| Sept 2017 - Dec 2022
 
-Berlin School of Mind and Brain (Humboldt Universität zu Berlin) | Berlin, DE
-MSc Mind and Brain (Track: Brain; Cognitive Neuroscience) | Oct 2015 - Oct 2017
+Berlin School of Mind and Brain (Humboldt Universität zu Berlin) \| Berlin, DE MSc Mind and Brain (Track: Brain; Cognitive Neuroscience) \| Oct 2015 - Oct 2017
 
-University of Trento | Rovereto, IT
-BSc Science and Technologies of Cognitive Psychology | February 2013 - July 2015
+University of Trento \| Rovereto, IT BSc Science and Technologies of Cognitive Psychology \| February 2013 - July 2015

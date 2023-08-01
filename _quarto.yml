@@ -7,20 +7,19 @@ website:
     right:
       - text: About
         href: about.md
-      - text: Research
-        href: research.md
-      #- text: CV
-      #  href: cv.md
       - text: Publications
         href: pubs.md
       - text: Blog
         href: blog.qmd
+      #-text: Research
+      # href: research.md
       - icon: github
         href: https://github.com/langestroop
       - icon: twitter
         href: https://twitter.com/langestroop
       - text: "{{< ai google-scholar >}}"
         href: https://scholar.google.com/citations?user=93msY9YAAAAJ&hl=it&oi=ao 
+      
 format:
   html:
     theme: litera

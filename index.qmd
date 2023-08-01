@@ -2,6 +2,7 @@
 title: "Alberto Mariola, PhD"
 image: avatar.jpg
 about:
+  id: hero-heading
   template: trestles
   image-shape: round
   links:
@@ -20,14 +21,15 @@ about:
     - text: "{{< ai researchgate >}}"
       #text: Scholar
       href: https://www.researchgate.net/profile/Alberto-Mariola-2?ev=hdr_xprf
+html:
+  page-layout: full
 ---
 
-:::{#hero-heading}
+::: {#hero-heading}
+I am a Postdoctoral Research Fellow working at the University of Sussex (UK) in the [Episodic Memory Group](http://www.sussex.ac.uk/psychology/memory/index) with Prof [Chris Bird](https://scholar.google.co.uk/citations?user=smxv3nIAAAAJ&hl=en). Before joining the group, I completed my PhD with Prof [Anil Seth](https://www.anilseth.com/), Dr [Warrick Roseboom](https://www.warrickroseboom.com/home) and Prof [Luc Berthouze](https://berthouz.github.io/) at the [Sussex Centre for Consciousness Science](https://www.sussex.ac.uk/research/centres/sussex-centre-for-consciousness-science/).
 
-I am a Postdoctoral Research Fellow working at the University of Sussex (UK) in the [Episodic Memory Group](http://www.sussex.ac.uk/psychology/memory/index) with Prof [Chris Bird](https://scholar.google.co.uk/citations?user=smxv3nIAAAAJ&hl=en).
-
-My work lies at the intersection of human perception, memory and metacognition. Specifically, I am interested in the neural and computational mechanisms that underlie event segmentation, namely humans’ ability to segment the continuous flow of information reaching their senses into units of experience and how this ability influences memory and reality monitoring. To do so, I am mostly employing a combination of naturalistic experimental paradigms (e.g., videos, movies, XR technologies), neuroimaging (e.g., M/EEG combined with eye tracking) and computational modelling.
-
-This website is under construction, but feel free to reach out to me via [mail](mailto:a.mariola@protonmail.ch) and/or via any of the included reported social media platform links 
+My work lies at the intersection of human perception, memory and metacognition. Specifically, I am interested in the neural and computational mechanisms that underlie event segmentation, namely humans' ability to segment the continuous flow of information reaching their senses into units of experience and how this ability influences memory and reality monitoring. To do so, I employ a combination of naturalistic experimental paradigms (e.g., videos, XR technologies), neuroimaging (e.g., M/EEG combined with eye tracking) and computational modelling.
 
 :::
+
+This website is under construction, but feel free to reach out to me via my [professional](mailto: A.Mariola@sussex.ac.uk) or [personal ](mailto:a.mariola@protonmail.ch) email address and/or via any of the social media links reported above. For more information about myself, my work and additional research interests please check the **About** and **Publications** sections.  

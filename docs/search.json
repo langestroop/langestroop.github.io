@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Alberto Mariola, PhD",
     "section": "",
-    "text": "I am a Postdoctoral Research Fellow working at the University of Sussex (UK) in the Episodic Memory Group with Prof Chris Bird.\nMy work lies at the intersection of human perception, memory and metacognition. Specifically, I am interested in the neural and computational mechanisms that underlie event segmentation, namely humans’ ability to segment the continuous flow of information reaching their senses into units of experience and how this ability influences memory and reality monitoring. To do so, I am mostly employing a combination of naturalistic experimental paradigms (e.g., videos, movies, XR technologies), neuroimaging (e.g., M/EEG combined with eye tracking) and computational modelling.\nThis website is under construction, but feel free to reach out to me via mail and/or via any of the included reported social media platform links"
+    "text": "I am a Postdoctoral Research Fellow working at the University of Sussex (UK) in the Episodic Memory Group with Prof Chris Bird. Before joining the group, I completed my PhD with Prof Anil Seth, Dr Warrick Roseboom and Prof Luc Berthouze at the Sussex Centre for Consciousness Science.\nMy work lies at the intersection of human perception, memory and metacognition. Specifically, I am interested in the neural and computational mechanisms that underlie event segmentation, namely humans’ ability to segment the continuous flow of information reaching their senses into units of experience and how this ability influences memory and reality monitoring. To do so, I employ a combination of naturalistic experimental paradigms (e.g., videos, XR technologies), neuroimaging (e.g., M/EEG combined with eye tracking) and computational modelling.\n\n\n\nThis website is under construction, but feel free to reach out to me via my professional or personal email address and/or via any of the social media links reported above. For more information about myself, my work and additional research interests please check the About and Publications sections."
   },
   {
     "objectID": "research.html",
@@ -46,21 +46,21 @@
     "href": "pubs.html",
     "title": "Publications",
     "section": "",
-    "text": "Here you can find an updated list of my publications together with the corresponding PDF files. Whenever possible, the respective OSF and/or Github repos containing pre-reg materials, data and/or scripts are also included."
+    "text": "Here you can find an updated list of my publications together with the corresponding PDF files. Whenever available, the respective  and/or  repos containing pre-reg materials, data and/or scripts are also included."
   },
   {
     "objectID": "pubs.html#preprints",
     "href": "pubs.html#preprints",
     "title": "Publications",
     "section": "Preprints",
-    "text": "Preprints\nMariola, A., Fountas, Z., Barnett, L., & Roseboom, W. (2022). Event segmentation in continuous, naturalistic videos from model-based, data-driven, and human perspectives. PsyArXiv. 10.31234"
+    "text": "Preprints\nMariola, A., Fountas, Z., Barnett, L., & Roseboom, W. (2022). Event segmentation in continuous, naturalistic videos from model-based, data-driven, and human perspectives. PsyArXiv. 10.31234/osf.io/t6fkg"
   },
   {
     "objectID": "pubs.html#journal-publications",
     "href": "pubs.html#journal-publications",
     "title": "Publications",
     "section": "Journal Publications",
-    "text": "Journal Publications\nHofmann, S. M., Klotzsche, F., Mariola, A., Nikulin, V., Villringer, A., & Gaebler, M. (2021). Decoding subjective emotional arousal from EEG during an immersive virtual reality experience. eLife, 10:e64812. 10.7554/eLife.64812   (shared first autorship, alphabetical order)"
+    "text": "Journal Publications\nHofmann, S. M.*, Klotzsche, F.*, Mariola, A.*, Nikulin, V., Villringer, A., & Gaebler, M. (2021). Decoding subjective emotional arousal from EEG during an immersive virtual reality experience. eLife, 10:e64812. 10.7554/eLife.64812   (*shared first autorship, alphabetical order)"
   },
   {
     "objectID": "pubs.html#book-chapters",
@@ -88,6 +88,48 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I am currently Postdoctoral Research Fellow working at the University of Sussex (UK) in the Episodic Memory Group with Prof Chris Bird.\nI completed my PhD within the 4-Year Sussex Neuroscience Programme working at the Sussex Centre for Consciousness under the supervision of Prof Anil Seth, Dr Warrick Roseboom and Prof Luc Berthouze."
+    "text": "I am currently Postdoctoral Research Fellow working at the University of Sussex (UK) in the Episodic Memory Group with Prof Chris Bird.\nI completed my PhD within the 4-Year Sussex Neuroscience Programme working at the Sussex Centre for Consciousness Science under the supervision of Prof Anil Seth, Dr Warrick Roseboom and Prof Luc Berthouze.\nIn addition to my main research project (“Segmenting reality: investigating the role of perceptual change in shaping sense of reality in naturalistic contexts” - see Research), during the first year of the programme I had the chance to work in three different research groups. I first combined EEG and VR to investigate the electrophysiological correlates of altered body ownership induced by a visuomotor mismatch of a virtual limb with Prof Anil Seth and Dr Keisuke Suzuki. I subsequently employed EEG, ECG and psychophysics to study the relationship between Heartbeat Evoked Potentials and dissociation symptoms with Prof Hugo Critchley and Prof Sarah Garfinkel. I then deepened my knowledge in computational neuroscience applied to clinical settings by working under Prof Luc Berthouze on a project that aimed to assess the presence of long-range temporal correlations across different frequency bands in the EEG data of people with disorders of consciousness.\nBefore joining the University of Sussex, I completed an interdisciplinary MSc at the Berlin School of Mind and Brain - Humboldt Universität zu Berlin (MSc “Mind and Brain” - Track: Brain; Cognitive Neuroscience) where I was involved in three research projects. I first carried out an EEG study under Prof Dr Niko Busch and Dr Luca Iemi, to investigate the influence of spontaneous alpha oscillations in two visual detection and discrimination tasks. Subsequently, I joined the MindBrainBody Institute to work on a project with Prof Dr Arno Villringer and Dr Michael Gaebler involving the assessment of the recording quality of a portable dry EEG system (Open BCI). For my Master’s thesis within the group, I then combined the use of VR and EEG to investigate the link between participants’ alpha power fluctuations and their level of subjective emotional arousal during an immersive experience (roller coaster in VR) through a combination of machine learning and spatial filtering techniques (SPoC - Dähne et al., 2014). This work was then extended with two additional decoding and machine learning methods (CSP and LSTM) and it has recently been published on eLife.\nDespite the frequent travels, my research career began in Italy during my BSc in Science and Technology of Cognitive Psychology at the Univeristy of Trento. For my first internship, I worked on a computational model of visual perceptual learning with Prof Massimo Turatto. Consequently, I joined Prof. Liliana Albertazzi’s lab in a project investigating the influence of background on colour perception."
+  },
+  {
+    "objectID": "about.html#miscellaneous",
+    "href": "about.html#miscellaneous",
+    "title": "About",
+    "section": "Miscellaneous",
+    "text": "Miscellaneous\nWhen I am not in the lab you can probably finding me"
+  },
+  {
+    "objectID": "about.html#other-research-interests",
+    "href": "about.html#other-research-interests",
+    "title": "About",
+    "section": "Other Research Interests",
+    "text": "Other Research Interests\nWhile my main research is focused around the field of Cognitive/Computational Neuroscience I have a strong interest"
+  },
+  {
+    "objectID": "about.html#random-stuff",
+    "href": "about.html#random-stuff",
+    "title": "About",
+    "section": "Random Stuff",
+    "text": "Random Stuff\nWhen I am not in the lab you can probably find me hiking peaks around my hometown and surrounding valleys in the North-Western Italian Alps. I also enjoy doing a bit of trial running as well as playing and watching basketball (I played competitively for 10 years).\nAside from sports, I really like reading, modern and contemporary art and experimental/electronic music.\nI hope to be able to post more about books, art, music and general interests on my Blog. In the meantime, you can find a slightly unbalanced mixture of my professional and personal life on Twitter"
+  },
+  {
+    "objectID": "about.html#research-career",
+    "href": "about.html#research-career",
+    "title": "About",
+    "section": "",
+    "text": "I am currently Postdoctoral Research Fellow working at the University of Sussex (UK) in the Episodic Memory Group with Prof Chris Bird.\nI completed my PhD within the 4-Year Sussex Neuroscience Programme working at the Sussex Centre for Consciousness under the supervision of Prof Anil Seth, Dr Warrick Roseboom and Prof Luc Berthouze.\nIn addition to my main research project (“Segmenting reality: investigating the role of perceptual change in shaping sense of reality in naturalistic contexts” - see Research), during the first year of the programme I had the chance to work in three different research groups. I first combined EEG and VR to investigate the electrophysiological correlates of altered body ownership induced by a visuomotor mismatch of a virtual limb with Prof Anil Seth and Dr Keisuke Suzuki. I subsequently employed EEG, ECG and psychophysics to study the relationship between Heartbeat Evoked Potentials and dissociation symptoms with Prof Hugo Critchley and Prof Sarah Garfinkel. I then deepened my knowledge in computational neuroscience applied to clinical settings by working under Prof Luc Berthouze on a project that aimed to assess the presence of long-range temporal correlations across different frequency bands in the EEG data of people with disorders of consciousness.\nBefore joining the University of Sussex, I completed an interdisciplinary MSc at the Berlin School of Mind and Brain - Humboldt Universität zu Berlin (MSc “Mind and Brain” - Track: Brain; Cognitive Neuroscience) where I was involved in three research projects. I first carried out an EEG study under Prof Dr Niko Busch and Dr Luca Iemi, to investigate the influence of spontaneous alpha oscillations in two visual detection and discrimination tasks. Subsequently, I joined the MindBrainBody Institute to work on a project with Prof Dr Arno Villringer and Dr Michael Gaebler involving the assessment of the recording quality of a portable dry EEG system (Open BCI). For my Master’s thesis within the group, I then combined the use of VR and EEG to investigate the link between participants’ alpha power fluctuations and their level of subjective emotional arousal during an immersive experience (roller coaster in VR) through a combination of machine learning and spatial filtering techniques (SPoC - Dähne et al., 2014). This work was then extended with two additional decoding and machine learning methods (CSP and LSTM) and it has recently been published on eLife.\nDespite the frequent travels, my research career began in Italy during my BSc in Science and Technology of Cognitive Psychology at the Univeristy of Trento. For my first internship, I worked on a computational model of visual perceptual learning with Prof Massimo Turatto. Consequently, I joined Prof. Liliana Albertazzi’s lab in a project investigating the influence of background on colour perception."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Alberto Mariola, PhD",
+    "section": "",
+    "text": "University of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "about.html#education-and-research",
+    "href": "about.html#education-and-research",
+    "title": "About",
+    "section": "",
+    "text": "I am currently Postdoctoral Research Fellow working at the University of Sussex (UK) in the Episodic Memory Group with Prof Chris Bird.\nI completed my PhD within the 4-Year Sussex Neuroscience Programme working at the Sussex Centre for Consciousness Science under the supervision of Prof Anil Seth, Dr Warrick Roseboom and Prof Luc Berthouze.\nIn addition to my main research project (“Segmenting reality: investigating the role of perceptual change in shaping sense of reality in naturalistic contexts” - see Research), during the first year of the programme I had the chance to work in three different research groups. I first combined EEG and VR to investigate the electrophysiological correlates of altered body ownership induced by a visuomotor mismatch of a virtual limb with Prof Anil Seth and Dr Keisuke Suzuki. I subsequently employed EEG, ECG and psychophysics to study the relationship between Heartbeat Evoked Potentials and dissociation symptoms with Prof Hugo Critchley and Prof Sarah Garfinkel. I then deepened my knowledge in computational neuroscience applied to clinical settings by working under Prof Luc Berthouze on a project that aimed to assess the presence of long-range temporal correlations across different frequency bands in the EEG data of people with disorders of consciousness.\nBefore joining the University of Sussex, I completed an interdisciplinary MSc at the Berlin School of Mind and Brain - Humboldt Universität zu Berlin (MSc “Mind and Brain” - Track: Brain; Cognitive Neuroscience) where I was involved in three research projects. I first carried out an EEG study under Prof Dr Niko Busch and Dr Luca Iemi, to investigate the influence of spontaneous alpha oscillations in two visual detection and discrimination tasks. Subsequently, I joined the MindBrainBody Institute to work on a project with Prof Dr Arno Villringer and Dr Michael Gaebler involving the assessment of the recording quality of a portable dry EEG system (Open BCI). For my Master’s thesis within the group, I then combined the use of VR and EEG to investigate the link between participants’ alpha power fluctuations and their level of subjective emotional arousal during an immersive experience (roller coaster in VR) through a combination of machine learning and spatial filtering techniques (SPoC - Dähne et al., 2014). This work was then extended with two additional decoding and machine learning methods (CSP and LSTM) and it has recently been published on eLife.\nDespite the frequent travels, my research career began in Italy during my BSc in Science and Technology of Cognitive Psychology at the Univeristy of Trento. For my first internship, I worked on a computational model of visual perceptual learning with Prof Massimo Turatto. Consequently, I joined Prof. Liliana Albertazzi’s lab in a project investigating the influence of background on colour perception."
   }
 ]

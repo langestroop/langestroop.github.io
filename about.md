@@ -3,7 +3,7 @@ title: "About"
 #subtitle:
 author: Alberto Mariola
 layout: single-sidebar
-date: "2023-07-30"
+date: "2024-07-14"
 ---
 
 ## Education and Research

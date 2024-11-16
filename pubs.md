@@ -17,6 +17,8 @@ Here you can find an updated list of my publications together with the correspon
 
 ## Journal Publications
 
+Fourcade, A., Klotzsche, F., Hofmann, S. M., **Mariola, A.**, Nikulin, V., Villringer, A., & Gaebler, M. (2024). Linking brain–heart interactions to emotional arousal in immersive virtual reality. *_Psychophysiology_*. [10.1111/psyp.14696](https://doi.org/10.1111/psyp.14696) [<i class="fa-regular fa-file-pdf"></i>](pdf/fourcade_hofmann_klotzsche_mariola_psyp_2024.pdf)
+
 Hofmann, S. M.\*, Klotzsche, F.\*, **Mariola, A.**\*, Nikulin, V., Villringer, A., & Gaebler, M. (2021). Decoding subjective emotional arousal from EEG during an immersive virtual reality experience. *_eLife_*, 10:e64812. [10.7554/eLife.64812](https://doi.org/10.7554/eLife.64812) [<i class="fa-regular fa-file-pdf"></i>](pdf/hofmann_klotzsche_mariola_elife_2021.pdf)
 [<i class="fa-brands fa-github"></i>](https://github.com/NeVRo-study/NeVRo) (*shared first autorship, alphabetical order)
 
